@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/NBISweden/wgs-structvar.png?label=ready&title=Ready)](https://waffle.io/NBISweden/wgs-structvar)
 # Whole Genome Sequenceing Structural Variation Pipelines
 
 Pipelines for WGS Structural variation analysis.
